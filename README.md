@@ -11,7 +11,7 @@ The software used for this project is Python. Necessary packages include **OS**,
 
 - **SCRIPTS Folder:**
   - `Project2_eda.py` — code for exploratory data analysis
-  - `evaluate_garbage_file.py` — code for the image classification model
+  - `garbage_model.py` — code for the image classification model
 
 - **OUTPUTS Folder:**
   - `EDA1.pdf` - graphical summary of data
@@ -27,4 +27,4 @@ The software used for this project is Python. Necessary packages include **OS**,
 1. Follow the link in the *Access Data* document to download the necessary image data. Save it to a known location on your computer.
 2. Install all required Python packages listed above.
 3. Run `Project2_eda.py` to perform exploratory data analysis. A plot and descriptive summary will be generated.
-4. Run `evaluate_garbage_file.py` to classify each image as **recycling**, **compost**, or **trash**. Accuracy and loss graphs for both the CNN and MobileNetV2 models will be generated, as well as a short output summary for the MobileNetV2 model.
+4. Run `garbage_model.py` to classify each image as **recycling**, **compost**, or **trash**. Accuracy and loss graphs for both the CNN and MobileNetV2 models will be generated, as well as a short output summary for the MobileNetV2 model.
