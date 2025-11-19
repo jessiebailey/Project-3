@@ -57,6 +57,7 @@ One ethical concern is that misrepresenting or incorrectly modifying the data co
 ---
 
 # Exploratory Plots
-![Data summary]("C:\Users\kmr8mp\Downloads\Data_Summary.png")
-![Graphical summary]("C:\Users\kmr8mp\Downloads\Graphical_Summary.png")
+<img width="1001" height="538" alt="Screenshot 2025-11-19 at 12 41 36 PM" src="https://github.com/user-attachments/assets/dbce83c4-38bf-49f7-8193-9e7246216917" />
+<img width="737" height="310" alt="Screenshot 2025-11-19 at 12 41 56 PM" src="https://github.com/user-attachments/assets/6fa04afe-6ea6-4b8c-957b-8cf42569676f" />
+
 
