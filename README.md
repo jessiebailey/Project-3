@@ -14,7 +14,8 @@ The software used for this project is Python. Necessary packages include **OS**,
   - `evaluate_garbage_file.py` — code for the image classification model
 
 - **OUTPUTS Folder:**
-  - *(Add contents here as needed)*
+  - `EDA1.pdf` - graphical summary of data
+  - `EDA2.pdf` - written summary of data
 
 - **LICENSE:** MIT license file for the repository  
 - **README:** Provides an overview of the repository and its contents
